@@ -8,3 +8,6 @@ Features :
 - Payment gateway
 - Admin Chat support
 - Review and Rating
+Technology :
+- PHP
+- Html, CSS, JS
