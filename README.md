@@ -5,6 +5,7 @@ In this system sellers can create their post about their product and admin will 
 
 Features :
 - Add product
+- Biding timing
 - Product approval
 - Cart System
 - Payment gateway
